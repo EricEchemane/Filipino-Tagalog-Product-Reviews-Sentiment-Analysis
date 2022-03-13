@@ -6,5 +6,5 @@ This is a machine learning model that analyzes the sentiment of product reviews 
 
 Below are the current status of this model
 
-- Sample size: 1001
-- Accuracy: 0.8
+- Sample size: `1001`
+- Accuracy: `0.81`
